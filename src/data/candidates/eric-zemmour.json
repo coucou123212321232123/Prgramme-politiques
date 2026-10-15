@@ -1,0 +1,55 @@
+{
+  "id": "eric-zemmour",
+  "first_name": "Éric",
+  "last_name": "Zemmour",
+  "status": "declare",
+  "status_note": "Candidature confirmée sur BFMTV le jeudi 17 septembre 2026.",
+  "status_source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+  "status_verified": "2026-10-15",
+  "birth_date": "1958-08-31",
+  "party": "Reconquête",
+  "party_short": "REC",
+  "family": "extreme-droite",
+  "position": "extreme-droite",
+  "color": "#4338CA",
+  "bio": "Journaliste, essayiste et chroniqueur, Éric Zemmour a fondé le parti Reconquête en 2021. Candidat à l'élection présidentielle de 2022, il a obtenu 7,07 % des voix au premier tour, se classant quatrième. Il s'est ensuite présenté sans succès aux élections législatives de 2022 dans le Var.",
+  "current_roles": [
+    "Président de Reconquête"
+  ],
+  "past_roles": [
+    "Candidat à l'élection présidentielle de 2022 (4e, 7,07 %)",
+    "Candidat aux élections législatives de 2022 dans le Var",
+    "Journaliste et chroniqueur (presse écrite et télévision)"
+  ],
+  "team": [
+    {
+      "name": "Sarah Knafo",
+      "role": "Députée européenne Reconquête, annoncée aux côtés du candidat pendant la campagne"
+    }
+  ],
+  "key_axes": [],
+  "socials": [],
+  "declaration_date": "2026-09-17",
+  "declaration_source_url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "note": "Aucun programme présidentiel 2027 officiel de Reconquête n'a été identifié au 15/10/2026."
+  },
+  "sources": [
+    {
+      "label": "LCP, « Présidentielle 2027 : Éric Zemmour officialise sa candidature » (septembre 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871"
+    },
+    {
+      "label": "Public Sénat, « Éric Zemmour officialise sa candidature à la présidentielle 2027 » (septembre 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027"
+    },
+    {
+      "label": "Wikipédia (anglais), Éric Zemmour",
+      "url": "https://en.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "nicolas-dupont-aignan",
+  "first_name": "Nicolas",
+  "last_name": "Dupont-Aignan",
+  "status": "declare",
+  "status_note": "Candidature officialisée le 19/09/2026 à Yerres (Essonne), lors de son discours de rentrée ; quatrième candidature présidentielle. Certains médias font état d'une première annonce dès mars 2025.",
+  "status_source_url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+  "status_verified": "2026-10-15",
+  "birth_date": "1961-03-07",
+  "party": "Debout la France",
+  "party_short": "DLF",
+  "family": "souverainiste",
+  "position": "droite-souverainiste",
+  "color": "#475569",
+  "bio": "Nicolas Dupont-Aignan préside Debout la France, parti souverainiste qu'il a fondé. Député de l'Essonne de 1997 à 2024, il a été candidat à l'élection présidentielle en 2012, 2017 et 2022. Il a retrouvé la mairie de Yerres en mars 2026 et présente une candidature centrée sur la sortie de l'Union européenne.",
+  "current_roles": [
+    "Président de Debout la France",
+    "Maire de Yerres (Essonne), élu en mars 2026"
+  ],
+  "past_roles": [
+    "Député de l'Essonne (1997-2024)",
+    "Maire de Yerres (1995-2017)",
+    "Candidat à l'élection présidentielle (2012, 2017, 2022)"
+  ],
+  "team": [],
+  "key_axes": [
+    "Sortie de l'Union européenne",
+    "Souveraineté nationale et contrôle des frontières",
+    "Protectionnisme et réindustrialisation",
+    "Paix négociée en Ukraine et indépendance diplomatique",
+    "Démocratie directe par le référendum"
+  ],
+  "website": "https://www.dupontaignan.fr/",
+  "socials": [],
+  "declaration_date": "2026-09-19",
+  "declaration_source_url": "https://www.cnews.fr/france/2026-09-19/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature-lors-de-son",
+  "program": {
+    "title": "2027, la liberté ou la mort (livre-programme)",
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "news_url": "https://www.dupontaignan.fr/",
+    "note": "Le candidat présente son livre « 2027, la liberté ou la mort » (Fayard, avril 2026) comme son programme ; il n'est pas disponible en ligne. Aucun programme présidentiel 2027 complet n'est publié sur le site de campagne au 15/10/2026 ; des propositions y sont publiées au fil de la campagne."
+  },
+  "sources": [
+    { "label": "franceinfo, lancement de la quatrième campagne présidentielle (19/09/2026)", "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html" },
+    { "label": "CNEWS, « Nicolas Dupont-Aignan officialise sa candidature » (19/09/2026)", "url": "https://www.cnews.fr/france/2026-09-19/presidentielle-2027-nicolas-dupont-aignan-officialise-sa-candidature-lors-de-son" },
+    { "label": "Wikipedia (en), Nicolas Dupont-Aignan", "url": "https://en.wikipedia.org/wiki/Nicolas_Dupont-Aignan" },
+    { "label": "Wikipedia (en), Debout la France", "url": "https://en.wikipedia.org/wiki/Debout_la_France" },
+    { "label": "Sud Radio, biographie de Nicolas Dupont-Aignan", "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-nicolas-dupont-aignan" },
+    { "label": "presseagence.fr, tournée de dédicaces du livre « 2027, la liberté ou la mort »", "url": "https://presseagence.fr/paris-nicolas-dupont-aignan-tournee-de-dedicaces-pour-son-livre-2027-la-liberte-ou-la-mort/" }
+  ],
+  "last_verified": "2026-10-15"
+}

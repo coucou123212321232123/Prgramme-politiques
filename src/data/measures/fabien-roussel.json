@@ -1,0 +1,18 @@
+{
+  "candidate_id": "fabien-roussel",
+  "measures": [
+    {
+      "id": "emploi-travail-permettant-de-vivre",
+      "title": "Un « projet de rupture » centré sur un travail permettant de vivre de son salaire",
+      "description": "En annonçant sa candidature, il a présenté son projet comme un « projet de rupture » dont l'axe central est un travail rémunéré de manière à permettre d'en vivre. Aucune mesure chiffrée n'a été détaillée à ce stade.",
+      "theme": "emploi",
+      "source_type": "declaration",
+      "source_label": "Déclaration au JT de 20 h de TF1, rapportée par LCP",
+      "source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+      "source_date": "2026-09-06",
+      "url_verification": "search_result",
+      "precision": "orientation_generale",
+      "last_verified": "2026-10-15"
+    }
+  ]
+}

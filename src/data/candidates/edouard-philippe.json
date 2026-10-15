@@ -1,0 +1,68 @@
+{
+  "id": "edouard-philippe",
+  "first_name": "Édouard",
+  "last_name": "Philippe",
+  "status": "declare",
+  "status_note": "Candidature annoncée dans un entretien au Point publié le 3 septembre 2024 ; campagne lancée lors d'un meeting à l'Adidas Arena (Paris) le 5 juillet 2026.",
+  "status_source_url": "https://www.europe1.fr/politique/edouard-philippe-annonce-officiellement-sa-candidature-a-la-prochaine-election-presidentielle-4265431",
+  "status_verified": "2026-10-15",
+  "birth_date": "1970-11-28",
+  "party": "Horizons",
+  "party_short": "HOR",
+  "family": "centre",
+  "position": "centre-droit",
+  "color": "#0369A1",
+  "bio": "Édouard Philippe est maire du Havre et président du parti Horizons, qu'il a fondé en 2021. Il a été Premier ministre de mai 2017 à juillet 2020, sous la présidence d'Emmanuel Macron. Auparavant membre des Républicains, il a été député de Seine-Maritime de 2012 à 2017.",
+  "current_roles": [
+    "Maire du Havre",
+    "Président du parti Horizons"
+  ],
+  "past_roles": [
+    "Premier ministre (2017-2020)",
+    "Député de Seine-Maritime (2012-2017)",
+    "Maire du Havre (2010-2017)"
+  ],
+  "team": [],
+  "slogan": "Croire en nous",
+  "key_axes": [
+    "Réduction des dépenses publiques et du déficit",
+    "Travail et réforme des retraites",
+    "École et rémunération des enseignants",
+    "Maîtrise de l'immigration",
+    "Lutte contre le narcotrafic"
+  ],
+  "website": "https://horizonsleparti.fr/",
+  "socials": [],
+  "declaration_date": "2024-09-03",
+  "declaration_source_url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "news_url": "https://horizonsleparti.fr/",
+    "note": "Aucun document de programme complet repéré au 15/10/2026. Les mesures ont été présentées par étapes : meeting du 5 juillet 2026, propositions sur les retraites (29 septembre 2026), émission « L'Heure de vérité » sur France 2 (8 octobre 2026)."
+  },
+  "sources": [
+    {
+      "label": "Wikipédia (en) – Édouard Philippe",
+      "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe"
+    },
+    {
+      "label": "France 3 Normandie – annonce de candidature (3 septembre 2024)",
+      "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/je-serai-candidat-a-la-prochaine-election-presidentielle-edouard-philippe-l-ancien-premier-ministre-et-maire-du-havre-officialise-sa-candidature-3026366"
+    },
+    {
+      "label": "Public Sénat – premier meeting de campagne (juillet 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pour-son-premier-meeting-edouard-philippe-joue-la-carte-du-bon-pere-de-famille-qui-veut-preparer-lavenir-de-nos-enfants"
+    },
+    {
+      "label": "Info.fr – lancement de campagne et slogan « Croire en nous »",
+      "url": "https://info.fr/edouard-philippe-lance-campagne-presidentielle-2027-paris/"
+    },
+    {
+      "label": "Horizons – site du parti",
+      "url": "https://horizonsleparti.fr/"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

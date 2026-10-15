@@ -1,0 +1,48 @@
+{
+  "id": "gabriel-attal",
+  "first_name": "Gabriel",
+  "last_name": "Attal",
+  "status": "declare",
+  "status_note": "Candidature officialisée le 22 mai 2026 lors d'un déplacement à Mur-de-Barrez (Aveyron) ; meeting à Paris prévu le 30 mai 2026.",
+  "status_source_url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+  "status_verified": "2026-10-15",
+  "birth_date": "1989-03-16",
+  "party": "Renaissance",
+  "party_short": "RE",
+  "family": "centre",
+  "position": "centre",
+  "color": "#CA8A04",
+  "bio": "Gabriel Attal dirige le parti Renaissance. Il a été Premier ministre de janvier à septembre 2024, après avoir été ministre de l'Éducation nationale, ministre délégué chargé des Comptes publics et porte-parole du gouvernement. Il est député des Hauts-de-Seine.",
+  "current_roles": [
+    "Secrétaire général de Renaissance",
+    "Député des Hauts-de-Seine"
+  ],
+  "past_roles": [
+    "Premier ministre (2024)",
+    "Ministre de l'Éducation nationale et de la Jeunesse (2023-2024)",
+    "Ministre délégué chargé des Comptes publics (2022-2023)",
+    "Porte-parole du gouvernement (2020-2022)"
+  ],
+  "team": [],
+  "key_axes": [],
+  "socials": [],
+  "declaration_date": "2026-05-22",
+  "declaration_source_url": "https://www.parismatch.be/actualites/monde/2026/05/22/gabriel-attal-officialise-sa-candidature-a-lelection-presidentielle-de-2027-en-france-WTFEPTR2MRE73CDYJ5P6VHB4NY/",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "note": "Aucun document de programme repéré au 15/10/2026. Lors de sa déclaration, le candidat a placé sa démarche sous le thème de l'« élévation » individuelle et collective."
+  },
+  "sources": [
+    {
+      "label": "LCP – Gabriel Attal officialise sa candidature (22 mai 2026)",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721"
+    },
+    {
+      "label": "Paris Match Belgique – annonce de candidature (22 mai 2026)",
+      "url": "https://www.parismatch.be/actualites/monde/2026/05/22/gabriel-attal-officialise-sa-candidature-a-lelection-presidentielle-de-2027-en-france-WTFEPTR2MRE73CDYJ5P6VHB4NY/"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

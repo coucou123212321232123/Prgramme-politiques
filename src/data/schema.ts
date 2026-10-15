@@ -127,6 +127,8 @@ export const POSITIONS = [
   'droite',
   'droite-souverainiste',
   'extreme-droite',
+  /** La presse ne le situe pas sur l'axe gauche-droite. */
+  'non-positionne',
 ] as const;
 export const Position = z.enum(POSITIONS);
 export type Position = z.infer<typeof Position>;
@@ -156,6 +158,8 @@ export const Candidate = z.object({
   party_short: z.string(),
   family: Family,
   position: Position,
+  /** Précision factuelle sur le positionnement (ex. candidat refusant le clivage gauche-droite). */
+  position_note: z.string().optional(),
   color: z.string().regex(/^#[0-9a-fA-F]{6}$/),
   photo: z
     .object({ url, credit: z.string(), license: z.string() })

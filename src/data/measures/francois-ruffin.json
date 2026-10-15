@@ -1,0 +1,86 @@
+{
+  "candidate_id": "francois-ruffin",
+  "measures": [
+    {
+      "id": "economie-smic-1700",
+      "title": "Porter le SMIC à 1 700 euros nets par mois",
+      "description": "François Ruffin propose de porter le salaire minimum à 1 700 euros nets mensuels.",
+      "theme": "economie",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "chiffre",
+      "indicators": {
+        "smic_net": "1700"
+      },
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "economie-indexation-salaires-inflation",
+      "title": "Revaloriser les bas salaires et les indexer strictement sur l'inflation",
+      "description": "Il propose une revalorisation des bas salaires assortie d'une indexation stricte des salaires sur l'inflation.",
+      "theme": "economie",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "precis",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "emploi-horaires-atypiques-remuneration-doublee",
+      "title": "Doubler la rémunération de certains horaires atypiques",
+      "description": "Il propose que le travail effectué sur certains horaires atypiques soit rémunéré au double. Les horaires concernés ne sont pas précisés dans l'article.",
+      "theme": "emploi",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "precis",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "retraites-depart-anticipe-penibilite",
+      "title": "Retraite anticipée liée à la pénibilité",
+      "description": "Il propose un départ anticipé à la retraite pour les métiers pénibles, dans le cadre de la défense des « travailleurs essentiels ».",
+      "theme": "retraites",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "orientation_generale",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "fiscalite-grands-groupes",
+      "title": "Alourdir la fiscalité des grands groupes les plus riches",
+      "description": "Il propose d'augmenter l'imposition des groupes les plus riches, en relevant que les grandes entreprises perçoivent selon lui davantage d'aides publiques tout en payant moins d'impôts que les petits entrepreneurs.",
+      "theme": "fiscalite",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "orientation_generale",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "fiscalite-etats-generaux",
+      "title": "Convoquer des états généraux de la fiscalité et de la protection sociale",
+      "description": "Il propose la tenue d'« états généraux de la fiscalité et de la protection sociale ».",
+      "theme": "fiscalite",
+      "source_type": "declaration",
+      "source_label": "Discours de lancement de campagne à Lyon, rapporté par Orange Actualités",
+      "source_url": "https://actu.orange.fr/france/presidentielle-2027-francois-ruffin-lance-sa-campagne-en-se-posant-en-defenseur-des-travailleurs-essentiels-magic-CNT000002oTqjw.html",
+      "source_date": "2026-04",
+      "url_verification": "search_result",
+      "precision": "precis",
+      "last_verified": "2026-10-15"
+    }
+  ]
+}

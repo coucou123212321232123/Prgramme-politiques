@@ -1,0 +1,53 @@
+{
+  "id": "francois-ruffin",
+  "first_name": "François",
+  "last_name": "Ruffin",
+  "status": "declare",
+  "status_note": "Candidat à la primaire de la gauche unitaire depuis janvier 2026, il a lancé sa campagne présidentielle à Lyon le 25/04/2026 et annoncé le 12/05/2026 qu'il serait candidat en l'absence de primaire. Après l'abandon de fait de la primaire unitaire (juillet 2026), le PS et Place publique ont organisé une primaire fermée, « Choisir 2027 », remportée par Raphaël Glucksmann le 11/10/2026, à laquelle il n'a pas participé. LCP le présente en septembre 2026 comme candidat déclaré ; sa candidature reste soumise au recueil des 500 parrainages.",
+  "status_source_url": "https://lcp.fr/actualites/primaire-de-gauche-toujours-pret-a-y-participer-francois-ruffin-reproche-a-raphael",
+  "status_verified": "2026-10-15",
+  "birth_date": "1975-10-18",
+  "party": "Debout !",
+  "party_short": "Debout !",
+  "family": "gauche",
+  "position": "gauche",
+  "color": "#7C3AED",
+  "bio": "Né en 1975 à Calais, François Ruffin est journaliste, fondateur du journal Fakir et réalisateur du documentaire « Merci patron ! », récompensé par le César du meilleur documentaire en 2017. Élu député de la 1re circonscription de la Somme en 2017, il a été réélu en 2022 et en 2024. Proche de La France insoumise lors de ses premiers mandats, il s'en est éloigné en 2024 et a fondé le mouvement Debout !.",
+  "current_roles": [
+    "Député de la 1re circonscription de la Somme (depuis 2017)",
+    "Fondateur du mouvement Debout !"
+  ],
+  "past_roles": [
+    "Fondateur et rédacteur en chef du journal Fakir",
+    "Reporter de l'émission radiophonique « Là-bas si j'y suis »",
+    "Fondateur du mouvement régional Picardie debout (2017)"
+  ],
+  "team": [],
+  "key_axes": [
+    "Défense des « travailleurs essentiels »",
+    "Revalorisation des bas salaires et prise en compte de la pénibilité",
+    "Hausse de la fiscalité des grands groupes les plus riches"
+  ],
+  "socials": [],
+  "declaration_date": "2026-05-12",
+  "declaration_source_url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "news_url": "https://x.com/Francois_Ruffin/status/2071970932491436259",
+    "note": "Aucun programme présidentiel 2027 officiel n'a été localisé. Les mesures recensées proviennent du discours de lancement de campagne à Lyon (25/04/2026) rapporté par la presse. Faute de site de campagne identifié, le lien d'actualité renvoie à une publication de son compte X officiel (lettre ouverte aux membres du PS, juillet 2026)."
+  },
+  "sources": [
+    { "label": "Wikipedia (en) – François Ruffin", "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin" },
+    { "label": "Wikipedia (en) – Debout!", "url": "https://en.wikipedia.org/wiki/Debout!" },
+    { "label": "Le Grand Continent – François Ruffin", "url": "https://legrandcontinent.eu/fr/p/francois-ruffin/" },
+    { "label": "LCP – « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin", "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin" },
+    { "label": "France 3 Hauts-de-France – Ruffin candidat « s'il n'y a pas de primaire » à gauche", "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/francois-ruffin-candidat-a-la-presidentielle-s-il-n-y-a-pas-de-primaire-a-gauche-3349831.html" },
+    { "label": "LCP – Primaire de gauche : « toujours prêt » à y participer, François Ruffin reproche à Raphaël Glucksmann d'avoir « peur des électeurs »", "url": "https://lcp.fr/actualites/primaire-de-gauche-toujours-pret-a-y-participer-francois-ruffin-reproche-a-raphael" },
+    { "label": "France 24 – Aux journées du PS, Ruffin fustige la primaire social-démocrate", "url": "https://www.france24.com/fr/info-en-continu/20260829-aux-journ%C3%A9es-du-ps-ruffin-fustige-la-primaire-social-d%C3%A9mocrate" },
+    { "label": "Touteleurope – Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/" },
+    { "label": "Lyon Capitale – François Ruffin passera un « entretien d'embauche pour l'Élysée » le 25 avril", "url": "https://www.lyoncapitale.fr/actualite/a-lyon-francois-ruffin-passera-un-entretien-dembauche-pour-lelysee-le-25-avril" }
+  ],
+  "last_verified": "2026-10-15"
+}

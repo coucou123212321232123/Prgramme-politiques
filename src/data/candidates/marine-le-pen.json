@@ -1,0 +1,73 @@
+{
+  "id": "marine-le-pen",
+  "first_name": "Marine",
+  "last_name": "Le Pen",
+  "status": "declare",
+  "status_note": "Condamnée le 7 juillet 2026 par la cour d'appel de Paris dans l'affaire des assistants parlementaires européens du FN (peine incluant une inéligibilité dont la partie ferme, de 15 mois selon la presse, n'empêche pas sa candidature en 2027). Elle a annoncé sa candidature le soir même sur TF1 et un pourvoi en cassation. Jordan Bardella, président du RN, est présenté comme son futur Premier ministre en cas de victoire.",
+  "status_source_url": "https://www.parismatch.be/actualites/monde/2026/07/07/marine-le-pen-confirme-etre-candidate-a-lelection-presidentielle-francaise-de-2027-TIIVNRVBNNAIJC75BE7EHW5IZM/",
+  "status_verified": "2026-10-15",
+  "birth_date": "1968-08-05",
+  "party": "Rassemblement national",
+  "party_short": "RN",
+  "family": "extreme-droite",
+  "position": "extreme-droite",
+  "color": "#1E3A8A",
+  "bio": "Avocate de formation, Marine Le Pen a présidé le Front national, devenu Rassemblement national, de 2011 à 2022. Candidate à l'élection présidentielle en 2012, 2017 et 2022, elle a accédé au second tour en 2017 et en 2022. Députée du Pas-de-Calais depuis 2017, elle préside le groupe RN à l'Assemblée nationale.",
+  "current_roles": [
+    "Députée de la 11e circonscription du Pas-de-Calais",
+    "Présidente du groupe Rassemblement national à l'Assemblée nationale"
+  ],
+  "past_roles": [
+    "Présidente du Front national puis du Rassemblement national (2011-2022)",
+    "Députée européenne (2004-2017)",
+    "Candidate à l'élection présidentielle (2012, 2017, 2022)"
+  ],
+  "team": [
+    {
+      "name": "Jordan Bardella",
+      "role": "Président du Rassemblement national, présenté comme futur Premier ministre en cas de victoire"
+    }
+  ],
+  "key_axes": [
+    "Priorité nationale (logement social, prestations)",
+    "Redressement des finances publiques (contre-budget de 140 Md€ d'économies d'ici 2032)",
+    "Logement, présenté comme premier chantier de campagne",
+    "Retour de l'âge légal de départ à la retraite à 62 ans"
+  ],
+  "socials": [],
+  "declaration_date": "2026-07-07",
+  "declaration_source_url": "https://www.parismatch.be/actualites/monde/2026/07/07/marine-le-pen-confirme-etre-candidate-a-lelection-presidentielle-francaise-de-2027-TIIVNRVBNNAIJC75BE7EHW5IZM/",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "note": "Pas de programme présidentiel 2027 complet publié au 15/10/2026. Des volets ont été présentés séparément : propositions sur le logement et la priorité nationale (Hénin-Beaumont, 13/09/2026), contre-budget 2027 (6/10/2026). La candidate a annoncé présenter sa réforme des retraites en détail le 17 novembre 2026 (franceinfo)."
+  },
+  "sources": [
+    {
+      "label": "Paris Match Belgique, « Marine Le Pen confirme être candidate à l'élection présidentielle française de 2027 » (7/07/2026)",
+      "url": "https://www.parismatch.be/actualites/monde/2026/07/07/marine-le-pen-confirme-etre-candidate-a-lelection-presidentielle-francaise-de-2027-TIIVNRVBNNAIJC75BE7EHW5IZM/"
+    },
+    {
+      "label": "Europe 1, pourvoi en cassation après la décision d'appel (juillet 2026)",
+      "url": "https://www.europe1.fr/node/968073"
+    },
+    {
+      "label": "Slate, « Condamnation en appel de Marine Le Pen » (juillet 2026)",
+      "url": "https://www.slate.fr/politique/condamnation-appel-marine-le-pen-jugement-sans-consequences-politiques-decision-citoyens-gagnante-sequence-justice-rn-bardella-election-presidentielle-2027"
+    },
+    {
+      "label": "Der Standard, « Le Pen kann doch kandidieren » (ticket avec Jordan Bardella)",
+      "url": "https://www.derstandard.at/consent/tcf/story/3000000330468/le-pen-kann-doch-kandidieren"
+    },
+    {
+      "label": "franceinfo, présentation de la réforme des retraites annoncée pour le 17 novembre",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-presentera-de-maniere-extremement-precise-sa-reforme-des-retraites-le-17-novembre_8237821.html"
+    },
+    {
+      "label": "Wikipédia (anglais), Marine Le Pen",
+      "url": "https://en.wikipedia.org/wiki/Marine_Le_Pen"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

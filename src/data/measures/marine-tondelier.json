@@ -1,0 +1,31 @@
+{
+  "candidate_id": "marine-tondelier",
+  "measures": [
+    {
+      "id": "fiscalite-egalite-impot-1-pourcent",
+      "title": "Égalité devant l'impôt pour les 1 % les plus riches",
+      "description": "Le projet présenté en août 2026 prévoit que les 1 % des Français les plus riches ne paient plus, proportionnellement à leurs revenus, moins d'impôts que le reste de la population. Les modalités fiscales précises ne sont pas détaillées dans le discours de présentation.",
+      "theme": "fiscalite",
+      "source_type": "officiel",
+      "source_label": "Les Écologistes, discours de Marine Tondelier aux Journées d'été 2026",
+      "source_url": "https://lesecologistes.fr/posts/2s0kOxQEOQdC8JP4jkXuu7/discours-de-marine-tondelier-aux-journees-d-ete-des-ecologistes-2026",
+      "source_date": "2026-08-21",
+      "url_verification": "search_result",
+      "precision": "orientation_generale",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "numerique-interdiction-x-ingerences",
+      "title": "Possibilité d'interdire le réseau social X en cas d'ingérences étrangères",
+      "description": "Marine Tondelier a défendu la possibilité d'interdire le réseau social X en France en cas d'ingérences étrangères.",
+      "theme": "numerique",
+      "source_type": "declaration",
+      "source_label": "Propos rapportés par Hot Air (site d'information américain)",
+      "source_url": "https://hotair.com/john-s-2/2026/08/07/french-green-party-leader-wants-to-shut-down-x-musk-responds-n3817774",
+      "source_date": "2026-08-07",
+      "url_verification": "search_result",
+      "precision": "orientation_generale",
+      "last_verified": "2026-10-15"
+    }
+  ]
+}

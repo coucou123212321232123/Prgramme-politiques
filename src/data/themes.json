@@ -20,7 +20,7 @@
   { "id": "education", "label": "Éducation", "short": "Éducation", "icon": "book", "description": "École, enseignants, enseignement supérieur et recherche.", "indicators": [] },
   { "id": "securite", "label": "Sécurité et justice", "short": "Sécurité", "icon": "shield", "description": "Police, justice, prisons, lutte contre la délinquance.", "indicators": [] },
   { "id": "immigration", "label": "Immigration et asile", "short": "Immigration", "icon": "passport", "description": "Entrées, droit d'asile, nationalité, intégration.", "indicators": [] },
-  { "id": "institutions", "label": "Institutions et démocratie", "short": "Institutions", "icon": "columns", "description": "Constitution, mode de scrutin, référendum, participation citoyenne.",
+  { "id": "institutions", "label": "Institutions et démocratie", "short": "Institutions", "icon": "landmark", "description": "Constitution, mode de scrutin, référendum, participation citoyenne.",
     "indicators": [ { "key": "proportionnelle", "label": "Proportionnelle aux législatives", "values": [
       { "value": "integrale", "label": "Proportionnelle intégrale" },
       { "value": "partielle", "label": "Dose ou prime majoritaire" },

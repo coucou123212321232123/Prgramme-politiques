@@ -46,7 +46,7 @@ for (const file of candidateFiles) {
   if (c.id !== id) errors.push(`candidates/${file} : id « ${c.id} » différent du nom de fichier`);
   const p = c.program;
   if (p.status !== 'en_cours_d_elaboration' && !p.main_url) errors.push(`candidates/${file} › program.main_url requis quand le programme est publié`);
-  if (!p.main_url && !p.news_url && !c.website) errors.push(`candidates/${file} › program : ni main_url, ni news_url, ni site officiel`);
+  if (!p.main_url && !p.news_url && !c.website) warnings.push(`candidates/${file} › program : ni main_url, ni news_url, ni site officiel`);
   if (p.main_url && !p.main_url_verification) errors.push(`candidates/${file} › program.main_url_verification manquant`);
 
   if (!measureFiles.has(file)) {

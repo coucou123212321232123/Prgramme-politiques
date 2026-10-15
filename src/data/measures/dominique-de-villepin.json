@@ -1,0 +1,44 @@
+{
+  "candidate_id": "dominique-de-villepin",
+  "measures": [
+    {
+      "id": "economie-fonds-souverain-100-milliards",
+      "title": "Créer un fonds souverain doté de 100 Md€ supplémentaires d'ici la fin du mandat",
+      "description": "Un fonds souverain recevrait 100 milliards d'euros supplémentaires d'ici la fin du quinquennat pour financer la décarbonation et la réindustrialisation.",
+      "theme": "economie",
+      "source_type": "analyse_tierce",
+      "source_label": "Comparateur votons-2027.fr (synthèse tierce, Philippe / Villepin)",
+      "source_url": "https://votons-2027.fr/comparer/philippe-vs-villepin",
+      "source_date": "2026",
+      "url_verification": "search_result",
+      "precision": "chiffre",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "ecologie-neutralite-carbone-constitution",
+      "title": "Inscrire l'objectif de neutralité carbone en 2050 dans la Constitution",
+      "description": "L'objectif de neutralité carbone à l'horizon 2050 serait inscrit dans la Constitution.",
+      "theme": "ecologie",
+      "source_type": "analyse_tierce",
+      "source_label": "Comparateur votons-2027.fr (synthèse tierce, Philippe / Villepin)",
+      "source_url": "https://votons-2027.fr/comparer/philippe-vs-villepin",
+      "source_date": "2026",
+      "url_verification": "search_result",
+      "precision": "chiffre",
+      "last_verified": "2026-10-15"
+    },
+    {
+      "id": "europe-conseil-securite-europeen",
+      "title": "Créer un conseil de sécurité européen réunissant les cinq principales puissances",
+      "description": "Un conseil de sécurité européen rassemblerait les cinq plus grandes puissances du continent pour coordonner les questions de sécurité.",
+      "theme": "europe",
+      "source_type": "analyse_tierce",
+      "source_label": "Comparateur votons-2027.fr (synthèse tierce, Philippe / Villepin)",
+      "source_url": "https://votons-2027.fr/comparer/philippe-vs-villepin",
+      "source_date": "2026",
+      "url_verification": "search_result",
+      "precision": "precis",
+      "last_verified": "2026-10-15"
+    }
+  ]
+}

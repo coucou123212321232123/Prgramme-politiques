@@ -1,0 +1,47 @@
+{
+  "id": "fabien-roussel",
+  "first_name": "Fabien",
+  "last_name": "Roussel",
+  "status": "declare",
+  "status_note": "Candidature validée par un vote des adhérents du PCF du 3 au 6 septembre 2026 (environ 72 % des voix), annoncée par le candidat le 6 septembre 2026 au JT de 20 h de TF1.",
+  "status_source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+  "status_verified": "2026-10-15",
+  "birth_date": "1969-04-16",
+  "party": "Parti communiste français",
+  "party_short": "PCF",
+  "family": "gauche",
+  "position": "gauche",
+  "color": "#E11D48",
+  "bio": "Fabien Roussel est secrétaire national du Parti communiste français depuis 2018 ; il a été reconduit à cette fonction lors du congrès du parti en juillet 2026. Il a été député du Nord de 2017 à 2024 et candidat du PCF à l'élection présidentielle de 2022. Les adhérents du PCF ont validé sa candidature pour 2027 le 6 septembre 2026.",
+  "current_roles": [
+    "Secrétaire national du Parti communiste français (depuis 2018, reconduit en juillet 2026)"
+  ],
+  "past_roles": [
+    "Député du Nord (2017-2024)",
+    "Candidat du PCF à l'élection présidentielle de 2022"
+  ],
+  "team": [],
+  "key_axes": [
+    "Un « projet de rupture » centré sur un travail permettant de vivre de son salaire"
+  ],
+  "socials": [],
+  "declaration_date": "2026-09-06",
+  "declaration_source_url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "note": "Aucun programme présidentiel 2027 du PCF ou du candidat n'a été identifié au 15/10/2026."
+  },
+  "sources": [
+    {
+      "label": "LCP – Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+      "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389"
+    },
+    {
+      "label": "Euronews – Fabien Roussel en route vers une nouvelle candidature à la présidentielle (juillet 2026)",
+      "url": "https://fr.euronews.com/my-europe/2026/07/05/fabien-roussel-en-route-vers-une-nouvelle-candidature-a-la-presidentielle"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

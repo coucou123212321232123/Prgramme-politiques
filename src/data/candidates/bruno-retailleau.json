@@ -1,0 +1,111 @@
+{
+  "id": "bruno-retailleau",
+  "first_name": "Bruno",
+  "last_name": "Retailleau",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 12/02/2026 ; désigné candidat des Républicains le 19/04/2026 par une consultation des adhérents (73,8 % pour la désignation directe, primaire écartée ; participation de 60 %).",
+  "status_source_url": "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/",
+  "status_verified": "2026-10-15",
+  "birth_date": "1960-11-20",
+  "party": "Les Républicains",
+  "party_short": "LR",
+  "family": "droite",
+  "position": "droite",
+  "color": "#1D4ED8",
+  "bio": "Ancien sénateur de la Vendée et ancien président du groupe Les Républicains au Sénat, Bruno Retailleau a été ministre de l'Intérieur de septembre 2024 à octobre 2025. Il préside Les Républicains depuis mai 2025. Il a annoncé sa candidature à l'élection présidentielle le 12 février 2026, puis a été désigné candidat du parti par un vote des adhérents le 19 avril 2026.",
+  "current_roles": [
+    "Président des Républicains (depuis mai 2025)"
+  ],
+  "past_roles": [
+    "Ministre de l'Intérieur (2024-2025)",
+    "Président du groupe Les Républicains au Sénat",
+    "Sénateur de la Vendée",
+    "Président du conseil régional des Pays de la Loire",
+    "Président du conseil général de la Vendée"
+  ],
+  "team": [
+    {
+      "name": "Max Brisson",
+      "role": "Sénateur, secrétaire national des Républicains chargé du projet éducation"
+    }
+  ],
+  "key_axes": [
+    "Ordre",
+    "Prospérité",
+    "Fierté française",
+    "Refondation des institutions et recours au référendum",
+    "Réduction de la dépense publique"
+  ],
+  "socials": [],
+  "declaration_date": "2026-02-12",
+  "declaration_source_url": "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/",
+  "program": {
+    "title": "Nos propositions pour la France (livrets thématiques des Républicains)",
+    "main_url": "https://republicains.fr/nos-idees/",
+    "main_url_verification": "search_result",
+    "format": "livret",
+    "status": "partiel",
+    "thematic_links": [
+      {
+        "theme": "emploi",
+        "title": "Le travail gagnant – Nos propositions pour la France",
+        "url": "https://republicains.fr/wp-content/uploads/2026/01/51705_LesRepublicains_Brochures_A5-40P_DEF.pdf",
+        "format": "pdf",
+        "url_verification": "search_result"
+      },
+      {
+        "theme": "economie",
+        "title": "Produire plus pour vivre mieux – Nos propositions pour la France",
+        "url": "https://republicains.fr/wp-content/uploads/2026/02/LR_Produire_Plus_LIVRET.pdf",
+        "format": "pdf",
+        "url_verification": "search_result"
+      },
+      {
+        "theme": "famille",
+        "title": "Une politique pour toutes les familles de France – Nos propositions pour la France",
+        "url": "https://republicains.fr/wp-content/uploads/2026/05/LR_Famille_vFinale.pdf",
+        "format": "pdf",
+        "url_verification": "search_result"
+      },
+      {
+        "theme": "numerique",
+        "title": "L'IA au service des Français : progrès, souveraineté, vigilance",
+        "url": "https://republicains.fr/wp-content/uploads/2026/07/LR_IA.pdf",
+        "format": "pdf",
+        "url_verification": "search_result"
+      }
+    ],
+    "note": "Pas de programme présidentiel consolidé identifié au 15/10/2026. Le parti publie des livrets thématiques (travail, production, famille, IA, logement « Se loger mieux et moins cher ») et le candidat présente ses propositions par thème (école le 31/08/2026, retraites le 22/09/2026, plan d'économies le 12/10/2026)."
+  },
+  "sources": [
+    {
+      "label": "Les Républicains – « Je suis candidat à l'élection présidentielle » (12/02/2026)",
+      "url": "https://republicains.fr/actualites/2026/02/12/je-suis-candidat-a-lelection-presidentielle/"
+    },
+    {
+      "label": "Public Sénat – Bruno Retailleau se déclare candidat",
+      "url": "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027"
+    },
+    {
+      "label": "LCP – Bruno Retailleau choisi comme candidat officiel des Républicains",
+      "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-candidat-officiel-des-republicains-435440"
+    },
+    {
+      "label": "Public Sénat – Bruno Retailleau désigné candidat par les adhérents LR",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr"
+    },
+    {
+      "label": "La Télé – Les adhérents LR choisissent à 73,8 % Retailleau",
+      "url": "https://latele.ch/articles/presidentielle-les-adherents-lr-choisissent-a-73-8-retailleau"
+    },
+    {
+      "label": "Brut – Retailleau annonce sa candidature dans un message à des élus LR",
+      "url": "https://www.brut.media/fr/articles/retailleau-annonce-sa-candidature-a-la-presidentielle-dans-un-message-a-des-elus-lr"
+    },
+    {
+      "label": "Wikipedia (en) – Bruno Retailleau",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Retailleau"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

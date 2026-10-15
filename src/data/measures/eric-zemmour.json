@@ -1,0 +1,18 @@
+{
+  "candidate_id": "eric-zemmour",
+  "measures": [
+    {
+      "id": "immigration-expulsion-chomeurs-longue-duree",
+      "title": "Expulser les étrangers au chômage de longue durée, y compris en situation régulière",
+      "description": "Lors de l'officialisation de sa candidature, Éric Zemmour a proposé l'expulsion des étrangers chômeurs de longue durée, même lorsqu'ils séjournent régulièrement en France.",
+      "theme": "immigration",
+      "source_type": "declaration",
+      "source_label": "Interview sur BFMTV, rapportée par Public Sénat",
+      "source_url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+      "source_date": "2026-09-17",
+      "url_verification": "search_result",
+      "precision": "precis",
+      "last_verified": "2026-10-15"
+    }
+  ]
+}

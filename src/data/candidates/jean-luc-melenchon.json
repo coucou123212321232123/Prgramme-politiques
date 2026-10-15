@@ -1,0 +1,73 @@
+{
+  "id": "jean-luc-melenchon",
+  "first_name": "Jean-Luc",
+  "last_name": "Mélenchon",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 3 mai 2026 au journal de 20 h de TF1, après validation par les élus de La France insoumise ; conditionnée par le candidat au recueil de 150 000 parrainages citoyens. Quatrième candidature après 2012, 2017 et 2022.",
+  "status_source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+  "status_verified": "2026-10-15",
+  "birth_date": "1951-08-19",
+  "party": "La France insoumise",
+  "party_short": "LFI",
+  "family": "gauche",
+  "position": "gauche-radicale",
+  "color": "#C2410C",
+  "bio": "Ancien sénateur socialiste de l'Essonne et ministre délégué à l'Enseignement professionnel (2000-2002), il quitte le Parti socialiste en 2008, cofonde le Parti de gauche puis lance La France insoumise en 2016. Il a été député européen (2009-2017) puis député des Bouches-du-Rhône (2017-2022). Candidat à l'élection présidentielle en 2012, 2017 et 2022 (21,95 % au premier tour en 2022), il a officialisé le 3 mai 2026 sa quatrième candidature.",
+  "current_roles": [
+    "Candidat de La France insoumise à l'élection présidentielle de 2027"
+  ],
+  "past_roles": [
+    "Député de la 4e circonscription des Bouches-du-Rhône (2017-2022)",
+    "Député européen (2009-2017)",
+    "Ministre délégué à l'Enseignement professionnel (2000-2002)",
+    "Sénateur de l'Essonne (1986-2000, 2004-2010)",
+    "Candidat à l'élection présidentielle (2012, 2017, 2022)"
+  ],
+  "team": [
+    { "name": "Clémence Guetté", "role": "Coordinatrice du programme (espace programme de LFI)" },
+    { "name": "Hadrien Clouet", "role": "Coordinateur du programme (espace programme de LFI)" }
+  ],
+  "key_axes": [
+    "Retraite à 60 ans",
+    "SMIC à 1 600 € net et blocage des prix",
+    "Planification écologique",
+    "Passage à une 6e République par une assemblée constituante",
+    "Diplomatie non alignée et sortie de l'OTAN"
+  ],
+  "website": "https://melenchon2027.fr/",
+  "socials": [],
+  "declaration_date": "2026-05-03",
+  "declaration_source_url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+  "program": {
+    "title": "L'Avenir en commun",
+    "main_url": "https://melenchon2027.fr/programme2025/livre/",
+    "main_url_verification": "search_result",
+    "format": "page_web",
+    "published_date": "2025-01",
+    "status": "publie",
+    "thematic_links": [
+      { "theme": "institutions", "title": "Abolir la monarchie présidentielle (chap. 1)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre1/s2/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "education", "title": "Reconstruire une école globale pour l'égalité et l'émancipation (chap. 5)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre5/s3/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "logement", "title": "Garantir le droit au logement (chap. 7)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre7/s5/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "securite", "title": "Une politique de justice efficace (chap. 7)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre7/s7/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "emploi", "title": "Réduire le temps de travail et faire naître une société du temps choisi (chap. 8)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre8/s2/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "economie", "title": "Augmenter les salaires et réduire les inégalités salariales dans l'entreprise (chap. 8)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre8/s4/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "outre-mer", "title": "Les Outre-mer, avant-postes de la planification écologique (chap. 12)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre12/s3/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "sante", "title": "Faire passer la santé d'abord et reconstruire les établissements de santé publics (chap. 15)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre15/s2/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "international", "title": "Assumer l'indépendance de la France dans le monde (chap. 16)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre16/s1/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "immigration", "title": "Pour une politique migratoire humaniste et réaliste (chap. 16)", "url": "https://melenchon2027.fr/programme2025/livre/chapitre16/s7/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "europe", "title": "Chapitre 17 : Europe", "url": "https://melenchon2027.fr/programme2025/livre/chapitre17/", "format": "page_web", "url_verification": "search_result" },
+      { "theme": "services-publics", "title": "Plan thématique Ruralité", "url": "https://melenchon2027.fr/programme/plans-thematiques/ruralite/", "format": "page_web", "url_verification": "search_result" }
+    ],
+    "note": "Version en ligne : 4e version de L'Avenir en commun, publiée en janvier 2025 (le site indique une dernière mise à jour en avril 2025) ; une version PDF est aussi en ligne (programme.lafranceinsoumise.fr, février 2025). Le site de campagne indique que le texte est en cours de réactualisation : selon LCP (septembre 2026), la nouvelle version, en six chapitres, sera présentée les 6 et 7 novembre 2026 et publiée aux éditions La Dispute ; le site de campagne annonce 1 069 mesures."
+  },
+  "sources": [
+    { "label": "LCP – Jean-Luc Mélenchon officialise sa candidature pour 2027", "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851" },
+    { "label": "La Libre Belgique – Jean-Luc Mélenchon officialise sa candidature (3 mai 2026)", "url": "https://www.lalibre.be/international/europe/2026/05/03/jean-luc-melenchon-officialise-sa-candidature-a-la-presidentielle-2027-62WVGQMVUREGHCOMM2PKZ2DE7M/" },
+    { "label": "LCP – Le programme remanié sera présenté début novembre", "url": "https://lcp.fr/actualites/presidentielle-le-programme-remanie-de-la-nouvelle-france-de-jean-luc-melenchon-sera" },
+    { "label": "Wikipédia – L'Avenir en commun", "url": "https://fr.wikipedia.org/wiki/L'Avenir_en_commun" },
+    { "label": "Site de campagne – Comment a été conçu le programme", "url": "https://melenchon2027.fr/comment-a-ete-concu-le-programme/" },
+    { "label": "L'Avenir en commun, version PDF (février 2025)", "url": "https://programme.lafranceinsoumise.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf" }
+  ],
+  "last_verified": "2026-10-15"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "raphael-glucksmann",
+  "first_name": "Raphaël",
+  "last_name": "Glucksmann",
+  "status": "declare",
+  "status_note": "Candidature annoncée le 23 août 2026 au JT de TF1 ; désigné candidat par la primaire « Choisir 2027 » (PS, Place publique, GRS), remportée dès le premier tour le 11 octobre 2026 avec environ 66 % des voix.",
+  "status_source_url": "https://www.parismatch.be/actualites/monde/2026/10/12/largement-elu-candidat-de-la-gauche-sociale-democrate-a-la-presidentielle-francaise-raphael-glucksmann-enfarine-dans-les-rues-de-paris-video-TEQ6BAP5RZAO3H43KTQKEH52JA/",
+  "status_verified": "2026-10-15",
+  "birth_date": "1979-10-15",
+  "party": "Place publique – candidat commun avec le Parti socialiste et la Gauche républicaine et socialiste",
+  "party_short": "PP",
+  "family": "gauche",
+  "position": "centre-gauche",
+  "color": "#DB2777",
+  "bio": "Essayiste et réalisateur, Raphaël Glucksmann a cofondé Place publique en 2018. Il est député européen depuis 2019, élu sur des listes communes avec le Parti socialiste qu'il a conduites en 2019 et en 2024. Il a annoncé sa candidature à l'élection présidentielle le 23 août 2026 et a remporté le 11 octobre 2026 la primaire organisée par le PS, Place publique et la GRS.",
+  "current_roles": [
+    "Député européen (depuis 2019)",
+    "Dirigeant de Place publique"
+  ],
+  "past_roles": [
+    "Cofondateur de Place publique (2018)",
+    "Tête de liste PS–Place publique aux élections européennes de 2019 et de 2024",
+    "Essayiste et réalisateur de documentaires"
+  ],
+  "team": [],
+  "key_axes": [
+    "Taxer les plus gros héritages pour augmenter le salaire net",
+    "« 100 jours de la révolution écologique » et sortie de la dépendance au gaz et au pétrole",
+    "Plan de sauvetage de l'école publique",
+    "Service civique obligatoire dans un « nouveau contrat patriotique »",
+    "Souveraineté européenne et soutien à l'Ukraine"
+  ],
+  "socials": [],
+  "declaration_date": "2026-08-23",
+  "declaration_source_url": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html",
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "note": "Aucun programme présidentiel complet publié par le candidat n'a été identifié au 15/10/2026. Le 25 août 2026, il annonçait une présentation de son programme « d'ici un mois, un mois et demi ». Premières orientations exposées dans son livre « Nous avons encore envie » (mai 2026). Les sites agrégateurs tiers de « programmes » n'ont pas été retenus comme sources."
+  },
+  "sources": [
+    {
+      "label": "franceinfo – annonce de candidature (23 août 2026)",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html"
+    },
+    {
+      "label": "France 24 – Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027"
+    },
+    {
+      "label": "Paris Match Belgique – résultat de la primaire (12 octobre 2026)",
+      "url": "https://www.parismatch.be/actualites/monde/2026/10/12/largement-elu-candidat-de-la-gauche-sociale-democrate-a-la-presidentielle-francaise-raphael-glucksmann-enfarine-dans-les-rues-de-paris-video-TEQ6BAP5RZAO3H43KTQKEH52JA/"
+    },
+    {
+      "label": "Toute l'Europe – les candidats à la primaire PS, Place publique, GRS",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/"
+    },
+    {
+      "label": "i24news – vainqueur de la primaire dès le premier tour",
+      "url": "https://www.i24news.tv/fr/actu/france/artc-presidentielle-2027-raphael-glucksmann-vainqueur-de-la-primaire-de-la-gauche-des-le-premier-tour"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

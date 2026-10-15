@@ -1,0 +1,56 @@
+{
+  "id": "marine-tondelier",
+  "first_name": "Marine",
+  "last_name": "Tondelier",
+  "status": "declare",
+  "status_note": "Candidate déclarée depuis octobre 2025, désignée en décembre 2025 par les adhérents des Écologistes (86 %) pour les représenter à une primaire de la gauche, qui n'a pas eu lieu. Elle n'a pas participé à la primaire « Choisir 2027 » (PS, Place publique, GRS) du 11/10/2026. Fin septembre 2026, le conseil fédéral des Écologistes a adopté une motion prévoyant un référendum interne en décembre 2026 (vote annoncé autour du 10-13 décembre) pour choisir entre le maintien de sa candidature et le ralliement à un candidat d'une autre force de gauche ; d'ici là, elle continue de porter le projet du parti.",
+  "status_source_url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
+  "status_verified": "2026-10-15",
+  "birth_date": "1986-08-23",
+  "party": "Les Écologistes",
+  "party_short": "LE",
+  "family": "ecologiste",
+  "position": "gauche",
+  "color": "#16A34A",
+  "bio": "Née en 1986 dans le Pas-de-Calais, diplômée de Sciences Po Lille, Marine Tondelier adhère aux Verts en 2009 et devient en 2014 conseillère municipale d'opposition à Hénin-Beaumont. Conseillère régionale des Hauts-de-France depuis 2021, elle est élue secrétaire nationale d'EELV le 10 décembre 2022 ; le parti prend ensuite le nom « Les Écologistes ». Elle a annoncé sa candidature à l'élection présidentielle de 2027 en octobre 2025.",
+  "current_roles": [
+    "Secrétaire nationale des Écologistes (depuis décembre 2022)",
+    "Conseillère régionale des Hauts-de-France (depuis 2021)"
+  ],
+  "past_roles": [
+    "Conseillère municipale d'opposition d'Hénin-Beaumont (élue en 2014)",
+    "Candidate aux élections législatives dans la 11e circonscription du Pas-de-Calais"
+  ],
+  "team": [],
+  "key_axes": [
+    "Un projet de « prospérité écologique » pour sortir du « surendettement climatique »",
+    "Égalité devant l'impôt pour les 1 % les plus riches",
+    "Recherche d'une candidature commune de la gauche et des écologistes"
+  ],
+  "socials": [],
+  "declaration_date": "2025-10-22",
+  "declaration_source_url": "https://www.brut.media/fr/articles/marine-tondelier-la-patronne-des-ecologistes-officiellement-candidate-a-la-presidentielle-de-2027",
+  "program": {
+    "title": "Projet de « prospérité écologique » (557 propositions)",
+    "main_url": "https://lesecologistes.fr/posts/2s0kOxQEOQdC8JP4jkXuu7/discours-de-marine-tondelier-aux-journees-d-ete-des-ecologistes-2026",
+    "main_url_verification": "search_result",
+    "format": "page_web",
+    "published_date": "2026-08-21",
+    "status": "partiel",
+    "thematic_links": [],
+    "news_url": "https://lesecologistes.fr/trombinoscope/RqKQhLKtZmERCT0kmqPoF/marine-tondelier",
+    "note": "Le projet de « prospérité écologique » (557 propositions) a été présenté par Marine Tondelier aux Journées d'été des Écologistes le 21/08/2026. Seule la page officielle de son discours de présentation a été localisée ; le texte intégral du projet n'a pas été trouvé lors de cette recherche. La candidature et la stratégie du parti doivent être tranchées par un référendum interne en décembre 2026."
+  },
+  "sources": [
+    { "label": "Wikipedia (en) – Marine Tondelier", "url": "https://en.wikipedia.org/wiki/Marine_Tondelier" },
+    { "label": "Sud Radio – Biographie et CV de Marine Tondelier", "url": "https://www.sudradio.fr/la-biographie-et-le-cv-de-marine-tondelier" },
+    { "label": "Les Écologistes – Fiche de Marine Tondelier", "url": "https://lesecologistes.fr/trombinoscope/RqKQhLKtZmERCT0kmqPoF/marine-tondelier" },
+    { "label": "Reporterre – Marine Tondelier représentera Les Écologistes à la primaire de la gauche", "url": "https://reporterre.net/Presidentielle-2027-Marine-Tondelier-representera-Les-Ecologistes-a-la-primaire-de-la-gauche" },
+    { "label": "Brut – Sans surprise, Marine Tondelier représentera les Écologistes à la primaire de la gauche", "url": "https://www.brut.media/fr/articles/sans-surprise-marine-tondelier-representera-les-ecologistes-a-la-primaire-de-la-gauche" },
+    { "label": "LCP – Pas de choix définitif des Écologistes avant la mi-décembre", "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi" },
+    { "label": "Journal du Net – Un référendum interne des Écologistes tranchera la candidature de Marine Tondelier", "url": "https://www.journaldunet.com/business/action-publique/1555211-referendum-interne-des-ecologistes-sur-la-candidature-de-marine-tondelier-a-la-presidentielle-de-2027/" },
+    { "label": "Touteleurope – Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/" },
+    { "label": "Franceinfo – Interview politique de Marine Tondelier", "url": "https://www.franceinfo.fr/replay-radio/l-interview-politique/chacun-a-decide-d-etre-dans-son-couloir-de-natation-deplore-marine-tondelier-candidate-ecologiste-a-l-election-presidentielle_8189441.html" }
+  ],
+  "last_verified": "2026-10-15"
+}
