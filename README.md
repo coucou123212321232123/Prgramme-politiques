@@ -19,6 +19,20 @@ Derrière un proxy d'entreprise : `NODE_USE_ENV_PROXY=1 npm run check-links`.
 
 Le routage par ancre (`/#/comparateur?...`) permet d'héberger `dist/` sur n'importe quel serveur statique (GitHub Pages, Netlify, etc.) sans configuration.
 
+## Application installable (PWA)
+
+L'application est une **Progressive Web App** : elle s'installe comme une app native et fonctionne **hors ligne** (toutes les données sont embarquées ; seuls les liens vers les sources externes nécessitent une connexion).
+
+- **Ordinateur (Chrome, Edge)** : bouton « Installer » dans l'en-tête, ou icône d'installation dans la barre d'adresse.
+- **Android (Chrome)** : bouton « Installer », ou menu ⋮ → « Installer l'application ».
+- **iPhone / iPad (Safari)** : bouton « Installer » (affiche la marche à suivre) → Partager → « Sur l'écran d'accueil ».
+
+Quand une nouvelle version des données est publiée, l'app propose « Mettre à jour » (vérification toutes les heures).
+
+L'installation requiert un hébergement en **HTTPS** (ou `localhost`) : `npm run build`, puis déployer `dist/` sur GitHub Pages, Netlify, Vercel, etc. Pour tester localement : `npm run build && npm run preview`.
+
+Fichiers concernés : configuration `VitePWA` dans `vite.config.ts` (manifeste, raccourcis, cache), icônes dans `public/icons/`, composants `src/components/Pwa.tsx`.
+
 ## Fonctionnalités
 
 | Page | Contenu |

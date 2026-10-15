@@ -2,6 +2,7 @@ import { AnimatePresence, MotionConfig } from 'framer-motion';
 import { lazy, Suspense, useEffect } from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
 import { Footer, Header, UpdateBanner } from './components/Layout';
+import { PwaToast } from './components/Pwa';
 import { PageSkeleton } from './components/ui';
 import HomePage from './pages/HomePage';
 
@@ -42,6 +43,7 @@ export default function App() {
         </AnimatePresence>
       </Suspense>
       <Footer />
+      <PwaToast />
     </MotionConfig>
   );
 }

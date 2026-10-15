@@ -5,6 +5,7 @@ import { lastUpdate } from '../data';
 import { formatShortDate } from '../lib/format';
 import { useStore } from '../store';
 import { Icon } from './Icon';
+import { InstallButton } from './Pwa';
 
 const NAV = [
   { to: '/', label: 'Candidats', end: true },
@@ -68,6 +69,7 @@ export function Header() {
           ))}
         </nav>
         <div className="ml-auto flex items-center gap-1 md:ml-2">
+          <InstallButton />
           <ThemeToggle />
           <button
             type="button"
