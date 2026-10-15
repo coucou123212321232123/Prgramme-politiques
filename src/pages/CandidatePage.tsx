@@ -159,7 +159,8 @@ export default function CandidatePage() {
             </div>
             <h1 className="font-display text-3xl font-semibold tracking-tight sm:text-4xl">{fullName(c)}</h1>
             <p className="text-ink-2 mt-1">
-              {c.party} ({c.party_short}) · {FAMILY_LABEL[c.family]}
+              {c.party}
+              {!c.party.includes(c.party_short) && ` (${c.party_short})`} · {FAMILY_LABEL[c.family]}
               {age !== undefined && ` · ${age} ans`}
             </p>
             {c.slogan && <p className="font-display text-ink-2 mt-3 text-lg italic">« {c.slogan} »</p>}

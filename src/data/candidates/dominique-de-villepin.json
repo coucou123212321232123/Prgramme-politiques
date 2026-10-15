@@ -8,7 +8,7 @@
   "status_verified": "2026-10-15",
   "birth_date": "1953-11-14",
   "party": "La France humaniste",
-  "party_short": "LFH",
+  "party_short": "La France humaniste",
   "family": "centre",
   "position": "centre-droit",
   "color": "#78716C",
@@ -32,10 +32,22 @@
     "note": "Aucun programme présidentiel publié au 15/10/2026 ; candidature non formalisée. Les propositions recensées proviennent de sources secondaires."
   },
   "sources": [
-    { "label": "franceinfo, « Je me bats pour être candidat » (30/08/2026)", "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html" },
-    { "label": "Brut, « toute son énergie tendue vers 2027 »", "url": "https://www.brut.media/fr/articles/presidentielle-dominique-de-villepin-affirme-avoir-toute-son-energie-tendue-vers-2027" },
-    { "label": "Unidivers, le parti La France humaniste", "url": "https://unidivers.fr/parti-france-humaniste-dominique-de-villepin/" },
-    { "label": "Objectif Gard, implantation de La France humaniste (avril 2026)", "url": "https://www.objectifgard.com/politique/presidentielle-la-france-humaniste-autour-de-dominique-de-villepin-simplante-dans-le-gard-163232.php" }
+    {
+      "label": "franceinfo, « Je me bats pour être candidat » (30/08/2026)",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html"
+    },
+    {
+      "label": "Brut, « toute son énergie tendue vers 2027 »",
+      "url": "https://www.brut.media/fr/articles/presidentielle-dominique-de-villepin-affirme-avoir-toute-son-energie-tendue-vers-2027"
+    },
+    {
+      "label": "Unidivers, le parti La France humaniste",
+      "url": "https://unidivers.fr/parti-france-humaniste-dominique-de-villepin/"
+    },
+    {
+      "label": "Objectif Gard, implantation de La France humaniste (avril 2026)",
+      "url": "https://www.objectifgard.com/politique/presidentielle-la-france-humaniste-autour-de-dominique-de-villepin-simplante-dans-le-gard-163232.php"
+    }
   ],
   "last_verified": "2026-10-15"
 }

@@ -27,20 +27,29 @@
   "declaration_date": "2025-12",
   "declaration_source_url": "https://www.slate.fr/politique/election-presidentielle-2027-liste-candidats-declares-interesses-primaire-gauche-droite-extreme-lfi-rn-lr-ps-macron",
   "program": {
-    "title": "Brochure Lutte ouvrière – été 2026 (« Présidentielle 2027 »)",
-    "main_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
-    "main_url_verification": "search_result",
-    "format": "pdf",
-    "published_date": "2026-06",
-    "status": "partiel",
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
     "thematic_links": [],
-    "note": "Aucun programme présidentiel détaillé n'a été repéré au 15 octobre 2026. Lutte ouvrière a publié une brochure intitulée « Présidentielle 2027 », liée à sa fête de mai 2026 ; son contenu n'a pas pu être consulté ni détaillé dans le cadre de cette vérification."
+    "news_url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "note": "Aucun programme présidentiel détaillé repéré au 15/10/2026. Lutte ouvrière a publié à l'été 2026 une brochure (PDF) présentée comme consacrée à la présidentielle 2027 ; son contenu n'a pas pu être consulté pour cette version, il n'est donc pas résumé ici."
   },
   "sources": [
-    { "label": "Slate – Présidentielle 2027 : la liste des candidats déclarés", "url": "https://www.slate.fr/politique/election-presidentielle-2027-liste-candidats-declares-interesses-primaire-gauche-droite-extreme-lfi-rn-lr-ps-macron" },
-    { "label": "Vikidia – Nathalie Arthaud", "url": "https://fr.vikidia.org/wiki/Nathalie_Arthaud" },
-    { "label": "LyonMag – Nathalie Arthaud attendue à la fête lyonnaise de Lutte ouvrière", "url": "https://www.lyonmag.com/article/154074/nathalie-arthaud-attendue-a-saint-fons-pour-la-fete-lyonnaise-de-lutte-ouvriere" },
-    { "label": "Lutte ouvrière – brochure été 2026", "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf" }
+    {
+      "label": "Slate – Présidentielle 2027 : la liste des candidats déclarés",
+      "url": "https://www.slate.fr/politique/election-presidentielle-2027-liste-candidats-declares-interesses-primaire-gauche-droite-extreme-lfi-rn-lr-ps-macron"
+    },
+    {
+      "label": "Vikidia – Nathalie Arthaud",
+      "url": "https://fr.vikidia.org/wiki/Nathalie_Arthaud"
+    },
+    {
+      "label": "LyonMag – Nathalie Arthaud attendue à la fête lyonnaise de Lutte ouvrière",
+      "url": "https://www.lyonmag.com/article/154074/nathalie-arthaud-attendue-a-saint-fons-pour-la-fete-lyonnaise-de-lutte-ouvriere"
+    },
+    {
+      "label": "Lutte ouvrière – brochure été 2026",
+      "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf"
+    }
   ],
   "last_verified": "2026-10-15"
 }

@@ -22,7 +22,8 @@ src/data/
 | `birth_date` | date ? | l'âge est calculé à l'affichage |
 | `party`, `party_short` | texte | ex. « Rassemblement national », « RN » |
 | `family` | `extreme-gauche` \| `gauche` \| `ecologiste` \| `centre` \| `droite` \| `souverainiste` \| `extreme-droite` | filtre de la page d'accueil |
-| `position` | `extreme-gauche` \| `gauche-radicale` \| `gauche` \| `centre-gauche` \| `centre` \| `centre-droit` \| `droite` \| `droite-souverainiste` \| `extreme-droite` | échelle indicative, étiquettes usuelles de la presse |
+| `position` | `extreme-gauche` \| `gauche-radicale` \| `gauche` \| `centre-gauche` \| `centre` \| `centre-droit` \| `droite` \| `droite-souverainiste` \| `extreme-droite` \| `non-positionne` | échelle indicative, étiquettes usuelles de la presse |
+| `position_note` | texte ? | précision factuelle sur le positionnement |
 | `color` | `#RRGGBB` | repère visuel uniquement |
 | `photo` | `{url, credit, license}` ? | uniquement Wikimedia Commons vérifié ; sinon avatar à initiales |
 | `bio` | texte | 2 à 4 phrases neutres |

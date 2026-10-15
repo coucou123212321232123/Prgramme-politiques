@@ -10,7 +10,7 @@
   "party": "Nous sommes la France (mouvement)",
   "party_short": "Nous sommes la France",
   "family": "souverainiste",
-  "position": "droite-souverainiste",
+  "position": "non-positionne",
   "color": "#92400E",
   "bio": "Journaliste et essayiste, agrégée de lettres modernes, Natacha Polony a été directrice de la rédaction de Marianne de 2018 à 2025 et dirige la revue L'Audace. Ancienne secrétaire nationale du Mouvement des citoyens de Jean-Pierre Chevènement, elle a soutenu celui-ci à la présidentielle de 2002. Elle a lancé fin août 2026 le mouvement « Nous sommes la France », destiné aux « orphelins de la politique », puis annoncé sa candidature le 14 octobre 2026. La presse la décrit comme souverainiste ; elle se réclame du gaullisme social de Philippe Séguin et de la gauche républicaine de Jean-Pierre Chevènement.",
   "current_roles": [
@@ -44,14 +44,39 @@
     "note": "Aucun programme présidentiel publié au 15 octobre 2026. Les grandes orientations sont présentées sur le site de campagne et dans les entretiens de la candidate ; elle a annoncé détailler ses propositions ultérieurement."
   },
   "sources": [
-    { "label": "Franceinfo – annonce de candidature (14/10/2026)", "url": "https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html" },
-    { "label": "LCP – « Oui, je suis candidate à la présidentielle »", "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808" },
-    { "label": "Euronews – Natacha Polony rejoint la course à la présidentielle 2027", "url": "https://www.euronews.com/2026/10/14/french-journalist-natacha-polony-joins-growing-field-of-2027-presidential-hopefuls" },
-    { "label": "Mesinfos – Qui est Natacha Polony, candidate à l'Élysée ?", "url": "https://mesinfos.fr/presidentielle-2027-qui-est-natacha-polony-nouvelle-candidate-a-l-elysee-341008.html" },
-    { "label": "Franceinfo – lancement du mouvement (31/08/2026)", "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html" },
-    { "label": "Déclaration de candidature sur X (@NPolony)", "url": "https://x.com/NPolony/status/2110256632353407479" },
-    { "label": "Wikipédia (anglais) – Natacha Polony", "url": "https://en.wikipedia.org/wiki/Natacha_Polony" },
-    { "label": "Techno-Science – biographie (date de naissance)", "url": "https://www.techno-science.net/glossaire-definition/Natacha-Polony.html" }
+    {
+      "label": "Franceinfo – annonce de candidature (14/10/2026)",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html"
+    },
+    {
+      "label": "LCP – « Oui, je suis candidate à la présidentielle »",
+      "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808"
+    },
+    {
+      "label": "Euronews – Natacha Polony rejoint la course à la présidentielle 2027",
+      "url": "https://www.euronews.com/2026/10/14/french-journalist-natacha-polony-joins-growing-field-of-2027-presidential-hopefuls"
+    },
+    {
+      "label": "Mesinfos – Qui est Natacha Polony, candidate à l'Élysée ?",
+      "url": "https://mesinfos.fr/presidentielle-2027-qui-est-natacha-polony-nouvelle-candidate-a-l-elysee-341008.html"
+    },
+    {
+      "label": "Franceinfo – lancement du mouvement (31/08/2026)",
+      "url": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html"
+    },
+    {
+      "label": "Déclaration de candidature sur X (@NPolony)",
+      "url": "https://x.com/NPolony/status/2110256632353407479"
+    },
+    {
+      "label": "Wikipédia (anglais) – Natacha Polony",
+      "url": "https://en.wikipedia.org/wiki/Natacha_Polony"
+    },
+    {
+      "label": "Techno-Science – biographie (date de naissance)",
+      "url": "https://www.techno-science.net/glossaire-definition/Natacha-Polony.html"
+    }
   ],
-  "last_verified": "2026-10-15"
+  "last_verified": "2026-10-15",
+  "position_note": "La presse la qualifie de « souverainiste » sans la situer à gauche ou à droite ; elle se réclame à la fois du gaullisme social et de la gauche républicaine."
 }

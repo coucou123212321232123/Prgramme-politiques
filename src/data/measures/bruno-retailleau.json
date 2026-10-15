@@ -291,35 +291,6 @@
       "last_verified": "2026-10-15"
     },
     {
-      "id": "energie-epr2-six-plus-huit",
-      "title": "Six EPR2 puis commande de huit réacteurs supplémentaires",
-      "description": "Veiller à l'avancement des six EPR2 prévus à Penly, Gravelines et Bugey, puis confirmer la commande de huit EPR2 supplémentaires dans les deux premières années du mandat si l'avancement est jugé satisfaisant.",
-      "theme": "energie",
-      "source_type": "analyse_tierce",
-      "source_label": "Votons 2027, fiche programme (reprend les propositions publiées sur republicains.fr, mise à jour du 30/06/2026)",
-      "source_url": "https://votons-2027.fr/candidats/retailleau/programme/climat",
-      "source_date": "2026-06-30",
-      "url_verification": "search_result",
-      "precision": "chiffre",
-      "indicators": {
-        "nucleaire": "relance"
-      },
-      "last_verified": "2026-10-15"
-    },
-    {
-      "id": "energie-abroger-ppe3-electricite",
-      "title": "Abroger le volet électricité de la PPE 3 et suspendre les appels d'offres solaire et éolien en mer",
-      "description": "Abroger le volet électricité de la troisième programmation pluriannuelle de l'énergie, déclarer infructueux les appels d'offres photovoltaïques et éoliens en mer non attribués, et ne plus en lancer tant que la demande n'augmente pas nettement.",
-      "theme": "energie",
-      "source_type": "analyse_tierce",
-      "source_label": "Votons 2027, fiche programme (reprend les propositions publiées sur republicains.fr, mise à jour du 30/06/2026)",
-      "source_url": "https://votons-2027.fr/candidats/retailleau/programme/climat",
-      "source_date": "2026-06-30",
-      "url_verification": "search_result",
-      "precision": "precis",
-      "last_verified": "2026-10-15"
-    },
-    {
       "id": "logement-loi-urgence-zan",
       "title": "Loi d'urgence abrogeant le « zéro artificialisation nette »",
       "description": "Une loi d'urgence abrogerait l'objectif de zéro artificialisation nette (ZAN) afin de rendre aux maires la liberté de construire.",
@@ -367,45 +338,6 @@
       "source_label": "Investissement-Locatif.com, comparatif des programmes logement 2027",
       "source_url": "https://www.investissement-locatif.com/presidentielle-2027-immobilier.html",
       "source_date": "2026",
-      "url_verification": "search_result",
-      "precision": "precis",
-      "last_verified": "2026-10-15"
-    },
-    {
-      "id": "sante-installation-zones-sous-dotees",
-      "title": "Obligation pour les jeunes médecins d'exercer dix ans en zone sous-dotée",
-      "description": "Pour lutter contre les déserts médicaux, les jeunes médecins devraient exercer pendant dix ans dans des zones sous-dotées.",
-      "theme": "sante",
-      "source_type": "analyse_tierce",
-      "source_label": "Votons 2027, fiche programme (reprend les propositions publiées sur republicains.fr, mise à jour du 30/06/2026)",
-      "source_url": "https://votons-2027.fr/candidats/retailleau/programme/sante",
-      "source_date": "2026-06-30",
-      "url_verification": "search_result",
-      "precision": "chiffre",
-      "last_verified": "2026-10-15"
-    },
-    {
-      "id": "sante-hopital-gouvernance",
-      "title": "Refonder l'hôpital public en simplifiant sa gouvernance",
-      "description": "Redonner davantage de place aux soignants dans la gestion de l'hôpital public et simplifier sa gouvernance.",
-      "theme": "sante",
-      "source_type": "analyse_tierce",
-      "source_label": "Votons 2027, fiche programme (reprend les propositions publiées sur republicains.fr, mise à jour du 30/06/2026)",
-      "source_url": "https://votons-2027.fr/candidats/retailleau/programme/sante",
-      "source_date": "2026-06-30",
-      "url_verification": "search_result",
-      "precision": "orientation_generale",
-      "last_verified": "2026-10-15"
-    },
-    {
-      "id": "sante-relocalisation-medicaments",
-      "title": "Relocaliser la production des médicaments essentiels",
-      "description": "Relocaliser en France et en Europe la production des médicaments essentiels.",
-      "theme": "sante",
-      "source_type": "analyse_tierce",
-      "source_label": "Votons 2027, fiche programme (reprend les propositions publiées sur republicains.fr, mise à jour du 30/06/2026)",
-      "source_url": "https://votons-2027.fr/candidats/retailleau/programme/sante",
-      "source_date": "2026-06-30",
       "url_verification": "search_result",
       "precision": "precis",
       "last_verified": "2026-10-15"

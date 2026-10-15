@@ -3,3 +3,4 @@ dist
 *.local
 .vite
 test-results
+link-report.md
