@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   // Chemins relatifs : l'app peut être servie depuis n'importe quel sous-dossier (GitHub Pages…).
   base: './',
+  build: { chunkSizeWarningLimit: 800 },
 });

@@ -1,0 +1,56 @@
+{
+  "id": "xavier-bertrand",
+  "first_name": "Xavier",
+  "last_name": "Bertrand",
+  "status": "probable",
+  "status_note": "Le 27/08/2026, aux rencontres du Medef, il a répondu « Je le serai » à la question de sa candidature, tout en indiquant que le moment de se déclarer n'était pas venu ; il avait annoncé à Ouest-France une déclaration officielle « en fin d'année ». Pas de déclaration formelle identifiée au 15/10/2026. Il dit envisager une candidature en indépendant et rejette l'idée d'une primaire de la droite et du centre, alors que Les Républicains ont désigné Bruno Retailleau.",
+  "status_source_url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+  "status_verified": "2026-10-15",
+  "birth_date": "1965-03-21",
+  "party": "Les Républicains (candidature envisagée en indépendant)",
+  "party_short": "LR",
+  "family": "droite",
+  "position": "droite",
+  "color": "#0F766E",
+  "bio": "Président du conseil régional des Hauts-de-France depuis 2016, Xavier Bertrand a été ministre de la Santé puis ministre du Travail sous les présidences de Jacques Chirac et de Nicolas Sarkozy. Ancien maire de Saint-Quentin et ancien secrétaire général de l'UMP, il a été candidat au congrès des Républicains de 2021 pour la désignation à l'élection présidentielle de 2022. Il a indiqué le 27 août 2026 qu'il serait candidat en 2027, sans déclaration formelle à ce jour.",
+  "current_roles": [
+    "Président du conseil régional des Hauts-de-France (depuis 2016)"
+  ],
+  "past_roles": [
+    "Ministre du Travail, de l'Emploi et de la Santé (2010-2012)",
+    "Ministre du Travail, des Relations sociales et de la Solidarité (2007-2009)",
+    "Ministre de la Santé et des Solidarités (2005-2007)",
+    "Secrétaire général de l'UMP (2008-2010)",
+    "Maire de Saint-Quentin (2010-2016)",
+    "Député de l'Aisne"
+  ],
+  "team": [],
+  "key_axes": [],
+  "socials": [],
+  "program": {
+    "format": "aucun",
+    "status": "en_cours_d_elaboration",
+    "thematic_links": [],
+    "news_url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+    "note": "Aucun programme 2027 publié au 15/10/2026 ; le candidat indique « tester ses idées ». Aucune page officielle de campagne n'a été identifiée : news_url renvoie à un article de LCP, faute de page officielle trouvée."
+  },
+  "sources": [
+    {
+      "label": "LCP – Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle (27/08/2026)",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election"
+    },
+    {
+      "label": "AFP via Boursedirect – Présidentielle : Xavier Bertrand confirme qu'il sera bien candidat",
+      "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/presidentielle-xavier-bertrand-confirme-qu-il-sera-bien-candidat-afp-83d7efd89fbe37c083d2fb08a34084aa680443ad"
+    },
+    {
+      "label": "LCP – Xavier Bertrand indique « tester ses idées » et envisager une candidature indépendante",
+      "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en"
+    },
+    {
+      "label": "Kohen Avocats – Liste des candidats déclarés à la présidentielle 2027 (source fournie, non ouverte)",
+      "url": "https://kohenavocats.com/candidats-presidentielle-2027-liste-declares-designes-officiellement-candidat"
+    }
+  ],
+  "last_verified": "2026-10-15"
+}

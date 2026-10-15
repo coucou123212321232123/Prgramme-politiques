@@ -13,25 +13,11 @@ export const themes = themesJson as Theme[];
 export const themeById = new Map(themes.map((t) => [t.id, t]));
 
 const STATUS_ORDER = { declare: 0, probable: 1, hypothese: 2 } as const;
-const POSITION_ORDER = [
-  'extreme-gauche',
-  'gauche-radicale',
-  'gauche',
-  'centre-gauche',
-  'centre',
-  'centre-droit',
-  'droite',
-  'droite-souverainiste',
-  'extreme-droite',
-];
-
 /** Tri neutre : statut, puis ordre alphabétique du nom de famille. */
 export const candidates: Candidate[] = Object.values(candidateModules).sort(
   (a, b) => STATUS_ORDER[a.status] - STATUS_ORDER[b.status] || a.last_name.localeCompare(b.last_name, 'fr'),
 );
 export const candidateById = new Map(candidates.map((c) => [c.id, c]));
-
-export const positionIndex = (c: Candidate) => POSITION_ORDER.indexOf(c.position);
 
 const measuresByCandidate = new Map<string, Measure[]>();
 for (const file of Object.values(measureModules)) measuresByCandidate.set(file.candidate_id, file.measures);

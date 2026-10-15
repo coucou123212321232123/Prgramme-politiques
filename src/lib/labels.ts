@@ -32,6 +32,7 @@ export const POSITION_LABEL: Record<Candidate['position'], string> = {
   droite: 'Droite',
   'droite-souverainiste': 'Droite souverainiste',
   'extreme-droite': 'Extrême droite',
+  'non-positionne': 'Non positionné·e sur l\'axe',
 };
 
 export const SOURCE_LABEL: Record<Measure['source_type'], string> = {

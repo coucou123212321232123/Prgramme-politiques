@@ -57,10 +57,12 @@ export function PositionScale({ c, compact }: { c: Candidate; compact?: boolean 
         role="img"
         aria-label={`Positionnement indicatif : ${POSITION_LABEL[c.position]}`}
       >
-        <span
-          className="ring-surface absolute top-1/2 size-3 -translate-x-1/2 -translate-y-1/2 rounded-full ring-2"
-          style={{ left: `${pct}%`, background: c.color }}
-        />
+        {i >= 0 && (
+          <span
+            className="ring-surface absolute top-1/2 size-3 -translate-x-1/2 -translate-y-1/2 rounded-full ring-2"
+            style={{ left: `${pct}%`, background: c.color }}
+          />
+        )}
       </div>
       {!compact && (
         <div className="text-ink-3 mt-1.5 flex justify-between text-[11px]">

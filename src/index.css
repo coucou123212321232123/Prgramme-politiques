@@ -60,6 +60,11 @@
   h3 {
     text-wrap: balance;
   }
+
+  /* Une grille sans colonnes explicites ne doit jamais s'élargir au contenu (texte tronqué, mobile). */
+  .grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 @layer components {
