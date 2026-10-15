@@ -1,0 +1,35 @@
+[
+  { "id": "economie", "label": "Économie et pouvoir d'achat", "short": "Économie", "icon": "trending", "description": "Croissance, salaires, prix, budget de l'État et dette publique.",
+    "indicators": [ { "key": "smic_net", "label": "SMIC net mensuel visé", "unit": "€" } ] },
+  { "id": "fiscalite", "label": "Fiscalité", "short": "Fiscalité", "icon": "receipt", "description": "Impôts des ménages et des entreprises, taxes, niches fiscales.",
+    "indicators": [ { "key": "impot_fortune", "label": "Impôt sur la fortune", "values": [
+      { "value": "retablir", "label": "Rétablir / créer un impôt sur la fortune" },
+      { "value": "contre", "label": "Pas de rétablissement" } ] } ] },
+  { "id": "emploi", "label": "Emploi et travail", "short": "Emploi", "icon": "briefcase", "description": "Chômage, temps de travail, assurance chômage, formation.", "indicators": [] },
+  { "id": "retraites", "label": "Retraites", "short": "Retraites", "icon": "hourglass", "description": "Âge de départ, durée de cotisation, niveau des pensions.",
+    "indicators": [ { "key": "age_legal", "label": "Âge légal de départ visé", "unit": "ans" } ] },
+  { "id": "energie", "label": "Énergie", "short": "Énergie", "icon": "bolt", "description": "Nucléaire, renouvelables, prix de l'énergie, souveraineté énergétique.",
+    "indicators": [ { "key": "nucleaire", "label": "Nucléaire", "values": [
+      { "value": "relance", "label": "Relance (nouveaux réacteurs)" },
+      { "value": "maintien", "label": "Maintien du parc existant" },
+      { "value": "sortie", "label": "Sortie progressive" } ] } ] },
+  { "id": "ecologie", "label": "Écologie et climat", "short": "Écologie", "icon": "leaf", "description": "Climat, biodiversité, transports, adaptation.", "indicators": [] },
+  { "id": "agriculture", "label": "Agriculture", "short": "Agriculture", "icon": "wheat", "description": "Revenu agricole, normes, accords commerciaux, alimentation.", "indicators": [] },
+  { "id": "logement", "label": "Logement", "short": "Logement", "icon": "home", "description": "Construction, loyers, logement social, accession à la propriété.", "indicators": [] },
+  { "id": "sante", "label": "Santé", "short": "Santé", "icon": "heart", "description": "Hôpital, déserts médicaux, assurance maladie, dépendance.", "indicators": [] },
+  { "id": "education", "label": "Éducation", "short": "Éducation", "icon": "book", "description": "École, enseignants, enseignement supérieur et recherche.", "indicators": [] },
+  { "id": "securite", "label": "Sécurité et justice", "short": "Sécurité", "icon": "shield", "description": "Police, justice, prisons, lutte contre la délinquance.", "indicators": [] },
+  { "id": "immigration", "label": "Immigration et asile", "short": "Immigration", "icon": "passport", "description": "Entrées, droit d'asile, nationalité, intégration.", "indicators": [] },
+  { "id": "institutions", "label": "Institutions et démocratie", "short": "Institutions", "icon": "columns", "description": "Constitution, mode de scrutin, référendum, participation citoyenne.",
+    "indicators": [ { "key": "proportionnelle", "label": "Proportionnelle aux législatives", "values": [
+      { "value": "integrale", "label": "Proportionnelle intégrale" },
+      { "value": "partielle", "label": "Dose ou prime majoritaire" },
+      { "value": "contre", "label": "Maintien du scrutin majoritaire" } ] } ] },
+  { "id": "europe", "label": "Europe", "short": "Europe", "icon": "stars", "description": "Union européenne, traités, budget européen, élargissement.", "indicators": [] },
+  { "id": "international", "label": "International et défense", "short": "Défense", "icon": "globe", "description": "Armées, budget de défense, OTAN, Ukraine, diplomatie.", "indicators": [] },
+  { "id": "numerique", "label": "Numérique et IA", "short": "Numérique", "icon": "chip", "description": "Intelligence artificielle, réseaux sociaux, souveraineté numérique.", "indicators": [] },
+  { "id": "culture", "label": "Culture et médias", "short": "Culture", "icon": "palette", "description": "Création, patrimoine, audiovisuel public, presse.", "indicators": [] },
+  { "id": "outre-mer", "label": "Outre-mer", "short": "Outre-mer", "icon": "island", "description": "Vie chère, statuts, développement des territoires ultramarins.", "indicators": [] },
+  { "id": "services-publics", "label": "Services publics et territoires", "short": "Territoires", "icon": "map", "description": "Collectivités, ruralité, transports du quotidien, fonction publique.", "indicators": [] },
+  { "id": "famille", "label": "Famille et société", "short": "Société", "icon": "users", "description": "Natalité, politique familiale, fin de vie, égalité, laïcité.", "indicators": [] }
+]
